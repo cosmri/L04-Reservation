@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="tv1">Name</string>
+    <string name="tv2">Number</string>
+    <string name="tv3">Pax</string>
+    <string name="cfm">CONFIRM</string>
+    <string name="reset">RESET</string>
+</resources>
